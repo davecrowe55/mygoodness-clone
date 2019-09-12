@@ -1,0 +1,250 @@
+#button1 {
+	background-color: #ffb6c1;
+	color: white;
+	    font-family: 'Lato',Helvetica,Arial,Lucida,sans-serif;
+    font-weight: 900;
+    text-transform: uppercase;
+    font-size: 18px;
+    color: #ffffff!important;
+    letter-spacing: 4px;
+    padding: 0px;
+    border: 0px;
+  display: inline-block;
+  height: 60px;
+}
+
+#button2 {
+	background-color: #20B2AA;
+	color: white;
+	    font-family: 'Lato',Helvetica,Arial,Lucida,sans-serif;
+    font-weight: 900;
+    text-transform: uppercase;
+    font-size: 18px;
+    color: #ffffff!important;
+    letter-spacing: 4px;
+    padding: 10px;
+    border: 0px;
+    display: inline-block;
+    height: 60px;
+}
+
+#button3 {
+	    background-color: #9370DB	;
+	color: white;
+	font-family: 'Lato',Helvetica,Arial,Lucida,sans-serif;
+    font-weight: 900;
+    text-transform: uppercase;
+    font-size: 18px;
+    color: #ffffff!important;
+    letter-spacing: 4px;
+    padding: 10px;
+    border: 0px;
+    height: 60px;
+}
+
+#button4 {
+	background-color: #f77985;
+	color: white;
+	font-family: 'Lato',Helvetica,Arial,Lucida,sans-serif;
+    font-weight: 900;
+    text-transform: uppercase;
+    font-size: 18px;
+    color: #ffffff!important;
+    letter-spacing: 4px;
+    padding: 10px;
+    border: 0px;
+    height: 60px;
+}
+
+#main {
+	background-color: orange;
+
+}
+
+#icecream {
+	position: relative;
+}
+
+
+
+
+#blackboard {
+  
+height: 650px;
+padding-right: 0px;
+padding-left: 0px;
+margin-top: 0px;
+padding-top: 0px;
+position: relative;
+}
+
+#fruitbased {
+	background-color: white;
+	margin-left: 0px;
+	margin-right: 0px;
+	height: 500px;
+	font-size: 47px;
+	font-weight:bold;
+	padding-top: 150px;
+}
+
+#flavours {
+	background-color: #20B2AA;
+	margin-left: 0px;
+	margin-right: 0px;
+	height: 900px;
+	font-size: 30px;
+	font-weight:bold;
+	padding-top: 150px;
+	line-height: 100%;
+	padding-bottom: 100px;
+	margin-bottom: 100px;
+}
+
+#label {
+	width: 75%;
+}
+
+#text {
+	font-size: 15px;
+	font-weight: normal;
+}
+
+#icecream3 {
+height: 650px;
+padding-right: 0px;
+padding-left: 0px;
+margin-top: 0px;
+padding-top: 0px;
+}
+
+#heading3 {
+	position: relative;
+	width: 50%;
+	bottom: 490px;
+  padding-bottom: 0px;
+}
+
+#main2 {
+  background-color: pink;
+  height: 600px;
+}
+
+#sorbet2 {
+  width: 99%;
+}
+
+#stockists {
+  background-color: #9370DB;
+  padding-top: 150px;
+  text-align: left;
+  word-wrap: break-word;
+}
+
+#countdown {
+  padding-left: 100px;
+  text-overflow: 20px;
+}
+
+#contact {
+  background-color: white;
+  color: black;
+}
+
+#contact-form {
+  padding-left: 200px;
+  padding-right: 200px;
+  background-color: white;
+}
+
+.form-control {
+  background-color: #eee;
+border: none;}
+
+#submit {
+  background-color: #f77985;
+  width: 160px;
+  border-radius: 35px;}
+
+#pics {
+  background-color:  #20B2AA;
+  height: 700px;
+  font-size: 30px;
+  font-weight:bold;
+  padding-top: 150px;
+  display: inline-block;
+}
+.col-sm{
+ 
+  width: 33.33%;
+  padding: 5px;
+  display: inline-block;
+}
+
+
+  #at {
+    width: 200px;
+    height: 250px;
+    padding-left: 1px;
+    padding-right: 1px;
+    display: inline-block;
+  }
+
+  #heading4 {
+    width: 50%
+  }
+
+  #footer {
+    background-color: orange;
+    color: white;
+    font-family: 'Lato',Helvetica,Arial,Lucida,sans-serif;
+    font-size: 19px;
+    height: 600px;
+    padding-top: 50px;
+  }
+
+#social {
+  color: pink;
+  background-color: pink
+  border-radius: 90px 40px 40px 40px;
+    border-width: 15px;
+    border-color: #f77985;
+}
+
+.textpanel {
+    position: relative;
+}
+.textpanel img {
+    display: block;
+}
+.textpanel textarea {
+    position: absolute;
+    top: 50px;
+    right: 50px;
+    height: 500px;
+    width: 500px;
+    background-color: orange;
+    color: white;
+}
+
+#heading5 {
+  position: relative;
+  width: 50%;
+  bottom: 390px;
+  padding-bottom: 0px;
+}
+
+#inner {
+ background-image:  url("../img/icecream8.png");
+  height: 500px; /* You must set a specified height */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: contain; /* Resize the background image to cover the entire container */
+}
+
+#heading {
+  height: 300px;
+  padding-top: 50px;
+  margin-top: 50px;
+}
+
